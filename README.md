@@ -1,7 +1,7 @@
 ### Readme
 
 - 👋 Hi, I’m @4rt3m1sF0wl
-- 👀 I’m interested in ...
+- 👀 I’m interested in making bodge projects or real applications and getting gud at using programming languages
 - 🌱 I’m currently learning python, and would like to move into Java, C, Ruby, PHP, as many languages as possible really. mostly Ruby or Java
 - 💞️ I’m not looking to collaborate on anything in particular, but feel free to offer if you want!
 - 📫 How to reach me
